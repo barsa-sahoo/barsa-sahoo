@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Barsa Sahoo!
 
 ## 🌱 About Me 🌟
-A data enthusiast on a mission to transform raw data into compelling stories! With a background in Buisness and Finance, I am diving deep into the world of data analytics to uncover insights that drive impactful decisions.
+A data enthusiast on a mission to transform raw data into compelling stories! With a background in business and finance, delving into data analytics to uncover insights that lead to informed and impactful decisions.
 
 ## 🛠️ My Toolbox
 - **Programming:** [Python, SQL] - Crafting scripts to make sense of complex data.
@@ -12,7 +12,7 @@ A data enthusiast on a mission to transform raw data into compelling stories! Wi
 
 ## 📊 Featured Projects
 ### ⚽ FIFA World Cup Analysis 🏆(1986-2022)
-Dive into the world of football with the analysis of FIFA World Cup data, where uncovered exciting trends and standout performances that define the tournament's legacy.
+A comprehensive analysis of FIFA World Cup data, uncovered exciting trends and standout performances that define the tournament's legacy.
 - [Explore the Project!](https://github.com/barsa-sahoo/FIFA-WorldCup-Analytics)
 
 ### 🦠 COVID-19 Data Insights (2020-2021)
@@ -20,7 +20,7 @@ In this project, analyzed COVID-19 data to track the virus's impact and recovery
 - [View the Analysis!](https://github.com/barsa-sahoo/Declaration-Docker_052)
 
 ### 💳 Loan Dataset EDA 💰
-Join me as I explore a loan dataset, revealing insights into borrower behavior and approval trends that can help financial institutions make better decisions.
+Analyze a loan dataset to uncover insights into borrower behavior and approval patterns, providing valuable information to help financial institutions make more informed decisions.
 - [Check Out the Analysis!](https://github.com/barsa-sahoo/Loan-Data-EDA)
 
 ## 🎓 My Journey
