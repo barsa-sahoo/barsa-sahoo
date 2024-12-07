@@ -11,6 +11,10 @@ A data enthusiast on a mission to transform raw data into compelling stories! Wi
 - **Databases:** [MySQL, MongoDB] - Efficiently storing and querying data.
 
 ## 📊 Featured Projects
+### 📈 E-Commerce Sales Analysis 🛒🛍️
+Comprehensive analysis of e-commerce data focusing on sales trends, customer engagement, and shipping efficiency to enhance decision-making and improve business performance.
+- [View the Analysis!](https://github.com/barsa-sahoo/E-Commerce-Analysis)
+
 ### ⚽ FIFA World Cup Analysis 🏆(1986-2022)
 A comprehensive analysis of FIFA World Cup data, uncovered exciting trends and standout performances that define the tournament's legacy.
 - [Explore the Project!](https://github.com/barsa-sahoo/FIFA-WorldCup-Analytics)
