@@ -21,11 +21,8 @@ A comprehensive analysis of FIFA World Cup data, uncovered exciting trends and s
 
 ### 🦠 COVID-19 Data Insights (2020-2021)
 In this project, analyzed COVID-19 data to track the virus's impact and recovery rates, providing valuable insights into the pandemic's evolution.
-- [View the Analysis!](https://github.com/barsa-sahoo/Declaration-Docker_052)
+- [Check Out the Analysis!](https://github.com/barsa-sahoo/Declaration-Docker_052)
 
-### 💳 Loan Dataset EDA 💰
-Analyze a loan dataset to uncover insights into borrower behavior and approval patterns, providing valuable information to help financial institutions make more informed decisions.
-- [Check Out the Analysis!](https://github.com/barsa-sahoo/Loan-Data-EDA)
 
 ## 🎓 My Journey
 - Currently enrolled in a **Data Analytics Program** at Masai School, honing my skills in a hands-on learning environment.
