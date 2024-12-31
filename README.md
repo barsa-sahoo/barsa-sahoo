@@ -25,7 +25,7 @@ In this project, analyzed COVID-19 data to track the virus's impact and recovery
 
 
 ## 🎓 My Journey
-- Currently enrolled in a **Data Analytics Program** at Masai School, honing my skills in a hands-on learning environment.
+- Completed an **Data Analytics Program** from Masai School, honed my analytical skills in a hands-on learning environment.
 - Completed my Graduation in **Accounting Specialization** (2018-2021), where I developed a strong foundation in finance.
 
 ## 🤝 Let’s Connect!
